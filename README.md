@@ -25,16 +25,7 @@
 <h3 align="center">Digit Recognition in Python using neural networks</h3>
 
   <p align="center">
-    project_description
-    <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    This project uses Python to identify hand-drawn digits drawn by the user. I trained the my convolutional neural network using the MNIST dataset. 
   </p>
 </div>
 
